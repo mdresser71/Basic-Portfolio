@@ -1,0 +1,209 @@
+body {
+    background-image: url(../images/textured_stripes/textured_stripes_@2X.png);
+    margin: 0px;
+    padding: 0px;
+    display: block;
+}
+
+header {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    height: 50px;
+    width: 100%;
+    border-bottom: 20px;
+    border-color: #949494;
+    margin: 0 auto;
+    background-color: #ffffff;
+    position: absolute;
+}
+
+h1 {
+    overflow: auto;
+    color: #ffffff;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    line-height: 175%;
+    top: -23px; left: 100px;
+    background-color: #4aaaa5;
+    position: absolute;
+}
+
+a {
+    text-decoration: none;
+    color: #666666;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+    height: 380px;
+    padding: 20px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    top: 100px; right: 0; left: 0;
+    background-color: #ffffff;
+    position: absolute;
+}
+
+h2 {
+    margin-bottom: 10px;
+    border-bottom: 2px solid #cbcbcb;
+    padding: 0px 0px 20px 0px;
+    color: #4aaaa5;
+}
+
+.bio {
+    clear: both;
+    line-height: 200%;
+    color: #666666; 
+}
+
+.Mike {
+    float: left;
+    margin-right: 20px;
+}
+
+.About {
+    float: left;
+    top: 20px; right: 200px;
+    position: absolute;
+}
+
+.Contact {
+    float: left;
+    top: 20px; right: 130px;
+    position: absolute;
+}
+
+.Portfolio {
+    float: left;
+    top: 20px; right: 50px;
+    position: absolute;
+}
+
+forum {
+    color: #828282;
+}
+
+input {
+    width: 960px;
+}
+
+.message {
+    height: 150px;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    border: none;
+    color: #ffffff;
+    padding: 16px 32px;
+    text-decoration: none;
+    cursor: pointer;
+    width: 110px;
+    font-size: 15px;
+    height: 35px;
+    line-height: 30%;
+    background-color: #4aaaa5;
+    margin: 4px 2px;
+}
+
+.imghangman {
+    float: left;   
+}
+
+.imgrpg {
+    margin: 0px 200px 0px 300px;  
+}
+
+.imgtrivia {
+    float: left;  
+}
+
+.imgrutgers {
+    margin: 0px 200px 0px 300px;
+}
+
+.contain1 {
+    position: relative;
+}
+
+.hangman {
+    color: #ffffff;
+    width: 150px;
+    left: 0px; right: 0px; top: 90px;
+    text-align: center;
+    background-color: #4aaaa5;
+    position: absolute;
+}
+
+.contain2 {
+    position: relative;
+}
+
+.RPGgame{
+    color: #ffffff;
+    width: 150px;
+    left: 450px; right: 0px; top: 90px;
+    text-align: center;
+    background-color: #4aaaa5;
+    position: absolute;
+}
+
+.contain3 {
+    position: relative;
+    float: left;
+}
+
+.triviagame {
+    color: #ffffff;
+    width: 150px;
+    left: 0px; right: 0px; top: 90px;
+    text-align: center;
+    background-color: #4aaaa5;
+    position: absolute;
+}
+
+.contain4 {
+    position: relative;
+}
+
+.rutgers {
+    color: #ffffff;
+    width: 150px;
+    left: 455px; right: 0px; top: 90px;
+    text-align: center;
+    background-color: #4aaaa5;
+    position: absolute;
+}
+
+.contain5 {
+    position: relative;
+}
+
+.rock {
+    color: #ffffff;
+    width: 150px;
+    left: 0px; right: 0px; top: 90px;
+    text-align: center;
+    background-color: #4aaaa5;
+    position: absolute;
+}
+
+.footer {
+    left: 0; right: 0; bottom: 0;
+    position: absolute;
+}
+
+.footertop {
+    background-color: #4aaaa5;
+    height: 10px;
+}
+
+.footerbottom {
+    height: 40px;
+    text-align: center;
+    line-height: 700%;
+    color: #ffffff;
+    font-size: 10px;
+    background-color: #666666;
+}
